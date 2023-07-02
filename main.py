@@ -7,7 +7,7 @@ from scoreboard import Scoreboard
 screen = Screen()
 screen.setup(width=800, height=600)
 screen.bgcolor("black")
-screen.title("Welcome to the Ping Pong Game")
+screen.title("Welcome to the Ping Pong Game 2023")
 screen.tracer(0)
 
 r_paddle = Paddle((350,0))
